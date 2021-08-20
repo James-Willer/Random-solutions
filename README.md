@@ -1,6 +1,7 @@
 # Random-solutions
 Solutions for random problems I face on Arch linux
 
-#### WIP
+#### Finding the files provided by a package
 
-[Pkgfile](https://bbs.archlinux.org/viewtopic.php?id=90635)
+[Pkgfile](https://wiki.archlinux.org/title/Pkgfile)
+
