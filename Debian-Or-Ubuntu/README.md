@@ -9,12 +9,10 @@ To install Brave browser: **Copy the following as a whole** then, paste and run 
 `cd $HOME/Downloads && wget https://raw.githubusercontent.com/James-Willer/Random-solutions/main/Scripts/install_brave_deb.sh && chmod a+x install_brave_deb.sh && ./install_brave_deb.sh`
 
 
->Do you use Github Desktop? Here, this is the current version 😉 (**Copy as whole and adjust the comments if you need to**)
+>Do you use Github Desktop? Here, this is the current version 😉 (**Copy as whole!**)
 
 `sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.9.4-linux1/GitHubDesktop-linux-2.9.4-linux1.deb`
 
-`#Uncomment below line if you have not installed gdebi-core before`
-
-`#sudo apt-get install gdebi-core`
+`sudo apt-get install gdebi-core`
 
 `sudo gdebi GitHubDesktop-linux-2.9.4-linux1.deb`
