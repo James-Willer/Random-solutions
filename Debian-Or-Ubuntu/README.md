@@ -5,8 +5,12 @@
 
 
 To install Brave browser: **Copy the following as a whole** then, paste and run this in your terminal 
-
-`cd $HOME/Downloads && wget https://raw.githubusercontent.com/James-Willer/Random-solutions/main/Scripts/install_brave_deb.sh && chmod a+x install_brave_deb.sh && ./install_brave_deb.sh`
+```
+cd $HOME/Downloads
+wget https://raw.githubusercontent.com/James-Willer/Random-solutions/main/Scripts/install_brave_deb.sh
+chmod a+x install_brave_deb.sh
+./install_brave_deb.sh
+```
 
 
 >Do you use Github Desktop? Here, this is the current version 😉 (**Copy as whole!**)
